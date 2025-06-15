@@ -1,0 +1,15 @@
+requests
+pandas
+numpy
+transformers
+torch
+spacy
+nltk
+python-dotenv
+tqdm
+aiohttp
+asyncio-throttle
+beautifulsoup4
+scikit-learn
+accelerate
+sentencepiece
